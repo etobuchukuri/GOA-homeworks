@@ -8,9 +8,8 @@
 
 #2)მომხმარებელს შეეკითხეთ ასაკი, და დაუპრინტეთ 25 წელში რამდენი წლის იქნება
 
-# age = int(input("Enter your age:"))
+age = int(input("Enter your age:"))
 
-# print(age + 25)
-
+print(age + 25)
 
 
